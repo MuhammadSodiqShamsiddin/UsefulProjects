@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Quiz Dasturi",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Quiz App",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Ushbu dastur sizda docx formatdagi to'g'ri javoblari bir xil rang yoki # bilan belgilanga faylni kiritish orqali avtomatik quiz test tuzib beradi."
+}
